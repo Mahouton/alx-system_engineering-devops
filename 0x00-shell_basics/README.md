@@ -3,3 +3,6 @@
 
 # Script_1: 1-listit
    Display the contents list of your current directory.
+
+# Script_2: 2-bring_me_home
+   Change the working directory to the user's home directory
