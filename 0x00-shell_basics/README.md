@@ -16,3 +16,5 @@
 # Script_5: 5-listfilesdigitonly
    Same as Scrip_4, but including user and group IDs displayed numerically
 
+# Script_6: 6-firstdirectory
+   This script creates a directory named my_first_directory in the /tmp/ directory
