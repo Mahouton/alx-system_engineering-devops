@@ -21,3 +21,6 @@
 
 # Script_7: 7-movethatfile
    Move the file betty from /tmp to /tmp/mys_first_directory
+
+# Script_8: 8-firstdelete
+   Delete the file betty
