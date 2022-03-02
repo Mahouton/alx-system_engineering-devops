@@ -9,3 +9,6 @@
 
 # Script_3: 3-listfiles
    Display current directory contents in a long format
+
+# Scrip_4: 4-listmorefiles
+   Same as Script_3, but including hidden file(starting with .)
