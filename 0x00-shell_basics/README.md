@@ -27,3 +27,12 @@
 
 # Script_9: 9-firstdirdeletion
    Delete the directory my_first_directory that is in the /tmp directory
+
+# Script 10 : 10-back
+   Change the working directory to the previous one
+
+
+
+
+
+
