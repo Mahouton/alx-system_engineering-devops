@@ -12,3 +12,7 @@
 
 # Scrip_4: 4-listmorefiles
    Same as Script_3, but including hidden file(starting with .)
+
+# Script_5: 5-listfilesdigitonly
+   Same as Scrip_4, but including user and group IDs displayed numerically
+
