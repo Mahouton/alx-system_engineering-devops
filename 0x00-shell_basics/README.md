@@ -1,4 +1,4 @@
-# Script0: 0-current_working_directory
+# Script_0: 0-current_working_directory
    This  script prints the absolute path name of the current working directory
 
 # Script_1: 1-listit
@@ -6,3 +6,6 @@
 
 # Script_2: 2-bring_me_home
    Change the working directory to the user's home directory
+
+# Script_3: 3-listfiles
+   Display current directory contents in a long format
