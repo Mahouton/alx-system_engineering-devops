@@ -53,5 +53,7 @@
    Changes the owner and the group owner of _hello to vincent and staff respectively.
    *The file _hello is a symbolic link
 
+# 102-if_only
+  Changes the owner of the file hello to betty only if it is owned by the user guillaume
 
 
