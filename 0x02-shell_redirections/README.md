@@ -77,3 +77,8 @@
 
 # 21-reverse
     Reverse its input.
+
+# 22-users_and_homes
+    Display all users and their home directories, sorted by users.
+	- Based on the the /etc/passwd file
+
