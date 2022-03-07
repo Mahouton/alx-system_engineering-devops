@@ -74,3 +74,6 @@
 
 # 20-hiago
    Remove all letters c and C from input.
+
+# 21-reverse
+    Reverse its input.
