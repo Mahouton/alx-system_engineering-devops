@@ -11,3 +11,6 @@ Add /action to the PATH. /action should be the last directory the shell looks in
 
 # 3-paths
 Counts the number of directories in the PATH.
+
+# 4-global_variables
+List environment variables.
